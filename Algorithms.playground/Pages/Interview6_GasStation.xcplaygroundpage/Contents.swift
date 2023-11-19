@@ -1,5 +1,6 @@
 import Foundation
 
+// O(n)
 func gasStation(gas: [Int], cost: [Int]) -> Int {
     var remaining: Int = 0
     var preRemaining: Int = 0
