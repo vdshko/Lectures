@@ -30,5 +30,6 @@
         <page name='Interview2_FirstAndLastIndexOfTargetInSortedArray'/>
         <page name='Interview3_KthLargestElements'/>
         <page name='Interview4_IsBinaryTreeSymmetric'/>
+        <page name='Interview5_GenerateParentheses'/>
     </pages>
 </playground>
