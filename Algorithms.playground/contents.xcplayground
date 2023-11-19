@@ -31,5 +31,6 @@
         <page name='Interview3_KthLargestElements'/>
         <page name='Interview4_IsBinaryTreeSymmetric'/>
         <page name='Interview5_GenerateParentheses'/>
+        <page name='Interview6_GasStation'/>
     </pages>
 </playground>
